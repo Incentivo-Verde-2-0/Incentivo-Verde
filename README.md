@@ -1,16 +1,66 @@
-# React + Vite
+# Incentivo Verde
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Identificação formal do projeto
+O *Incentivo Verde* configura-se como uma iniciativa voltada à promoção da sustentabilidade ambiental por meio da conscientização e do estímulo à prática da coleta seletiva.  
 
-Currently, two official plugins are available:
+O projeto busca integrar ações educativas, mecanismos de reconhecimento e estratégias de engajamento comunitário com o propósito de fomentar a participação ativa de indivíduos, instituições e organizações na adoção de práticas ambientalmente responsáveis.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A proposta fundamenta-se na utilização de certificados, selos de reconhecimento e premiações. Para o usuário adquirir *1000 pontos, deverá inserir o código *CODIGO1000** na página de pontos de coleta, como instrumento de incentivo e valorização das iniciativas de caráter sustentável.
+Além disso, para garantir maior controle e segurança na plataforma, o cadastro e login estão restritos a quatro contas previamente autorizadas. Somente os seguintes e-mails podem acessar o sistema:
 
-## React Compiler
+matheus123@gmail.com
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+lucas123@gmail.com
 
-## Expanding the ESLint configuration
+otavio123@gmail.com
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+mariafer123@gmail.com
+
+Em todos os casos, a senha de acesso é: *123*.  
+
+Tais recursos têm por objetivo reforçar a relevância das atitudes voltadas ao correto descarte de resíduos sólidos, contribuindo, assim, para a preservação dos recursos naturais e para a mitigação dos impactos ambientais decorrentes do consumo humano.  
+
+Adicionalmente, o projeto busca consolidar uma cultura de responsabilidade socioambiental, promovendo a educação ambiental e o fortalecimento do senso coletivo de cuidado com o meio ambiente. Dessa forma, o *Incentivo Verde* apresenta-se como uma ferramenta de transformação social, capaz de articular conhecimento, prática e reconhecimento em prol de um futuro mais sustentável.  
+
+---
+
+## Nome da ETEC
+*Etec de Lins - CPS*
+
+---
+
+## Integrantes do grupo e suas funções
+- *Lucas Henrique Rodrigues Camargo* → CSS, HTML e JavaScript
+- *Maria Fernanda Kondo Delpino* → HTML e CSS  
+- *Matheus Henrique Pereira Souza* → JavaScript, HTML, CSS, e Python
+- *Otávio Henrique Alves da Costa* → Gerador de Imagens  
+
+---
+
+## Descrição do projeto
+O *Incentivo Verde* surge diante do problema do baixo engajamento da população na coleta seletiva e na adoção de práticas sustentáveis, o que contribui para o aumento da poluição e o desperdício de recursos recicláveis.  
+
+Como solução, a startup propõe um sistema de *educação ambiental aliado a recompensas, certificados e selos de reconhecimento, incentivando tanto indivíduos quanto instituições a participarem ativamente do processo de reciclagem, tornando-o mais **atrativo, acessível e eficaz*.  
+
+---
+
+## Instruções de Setup
+
+### Pré-requisitos
+- Navegador atualizado (Google Chrome, Microsoft Edge, Firefox ou similar)
+
+### Baixar o projeto
+1. Faça o download do arquivo .zip do projeto diretamente do repositório.  
+2. Extraia o conteúdo em uma pasta de sua preferência no computador.  
+
+### Acessar os arquivos
+- Abra a pasta extraída.  
+- Localize o arquivo principal: *index.html*  
+
+### Executar o projeto
+- Clique duas vezes no arquivo *index.html* para abrir no navegador.  
+
+---
+
+## Licença
+© Incentivo Verde 2026
